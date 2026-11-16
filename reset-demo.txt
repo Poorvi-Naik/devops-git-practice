@@ -1,2 +1,3 @@
 This is commit A.
 Bug fix: corrected the reset practice example.
+New feature: added version reporting.
